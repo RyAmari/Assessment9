@@ -33,7 +33,7 @@ function DeleteAgent() {
     <div>
       <button className="btn btn-danger m-5" type="button" onClick={handleDeleteClicked}>Delete Agent</button>
       <Link to="/" className="btn btn-warning ml-2">Cancel</Link>
-    </div>
+    </div> 
   </section>;
 }
 
